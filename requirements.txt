@@ -1,3 +1,6 @@
 streamlit
 plotly
 pandas
+rdkit
+opencv-python-headless
+
