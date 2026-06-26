@@ -3,4 +3,7 @@ plotly
 pandas
 rdkit
 opencv-python-headless
+stmol
+py3Dmol
+
 
